@@ -18,14 +18,14 @@ This project includes all the test cases for [Credentials Management Errors](htt
 * [CWE-321: Use of Hard-coded Cryptographic Key](https://cwe.mitre.org/data/definitions/321.html)
 * [CWE-798: Use of Hard-coded Credentials](https://cwe.mitre.org/data/definitions/798.html)
 
-Although this is the criteria for the tests selected, there are not tests for all of the CWE's. Only CWE-256, CWE-259 and CWE-321 are available.
+Although this is the criteria for the tests selected, there are not tests available for all of the above CWE's; only CWE-256, CWE-259 and CWE-321 are available from the Julia 1.3 suite.
 
 # Limitations
 
 This project does not include the scripts to execute test cases, documents, or any additional support files. For those please download the full Juliet test suite:
 
 * [NIST Juliet C# 1.3](https://github.com/0x736E/NIST-Juliet-CSharp-1.3)
-* [CNIST Juliet Java 1.3](https://github.com/0x736E/NIST-Juliet-Java-1.3)
+* [NIST Juliet Java 1.3](https://github.com/0x736E/NIST-Juliet-Java-1.3)
 * [NIST Juliet C/C++ 1.3](https://github.com/0x736E/NIST-Juliet-C-CPP-1.3)
 
 # License
